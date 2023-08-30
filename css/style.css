@@ -1,0 +1,32 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: yellow;
+    height: 60px;
+}
+section{
+    background-color: red;
+    overflow: hidden;
+}
+nav{
+background-color: aliceblue;
+float: left;
+width: 25%;
+}
+article{
+background-color: brown;
+float: left;
+width: 75%;
+height: 80px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.534);
+    height: 120px;
+}
+#content{
+    background-color: grey;
+    margin: 0 auto;
+    max-width: 800px;
+}
